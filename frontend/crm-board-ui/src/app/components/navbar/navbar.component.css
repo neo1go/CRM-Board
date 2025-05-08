@@ -1,0 +1,24 @@
+nav {
+    background-color: #c1afaf;
+    padding: 10px;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+  }
+  
+  nav li a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  nav li a.active {
+    font-weight: bold;
+    color: rgb(15, 108, 103);
+    border-bottom: 2px saddlebrown;
+  }
+  

@@ -1,0 +1,46 @@
+<!-- Fehlernachricht anzeigen -->
+<div *ngIf="errorMessage" class="error">
+  <p>{{ errorMessage }}</p>
+</div>
+
+<!-- Button zum Anzeigen aller Kunden -->
+<button (click)="showAllCustomers()">Show All Customers</button>
+
+<!-- Kundenliste nur anzeigen, wenn isAllCustomersVisible wahr ist -->
+<div *ngIf="isAllCustomersVisible">
+  <div *ngFor="let customer of customers">
+    <p>{{ customer.name }} (Priority: {{ customer.priority }})</p>
+    <button *ngIf="customer.id" (click)="updateCustomer(customer.id, customer)">Edit</button>
+    <button *ngIf="customer.id" (click)="deleteCustomer(customer.id)">Delete</button>
+  </div>
+</div>
+
+<!-- Formular zum Hinzufügen eines neuen Kunden -->
+<form (ngSubmit)="addCustomer()" #customerForm="ngForm">
+  <label>Name:</label>
+  <input [(ngModel)]="newCustomer.name" name="name" required />
+
+  <label>Adresse:</label>
+  <input [(ngModel)]="newCustomer.address" name="address" />
+
+  <label>Firma:</label>
+  <input [(ngModel)]="newCustomer.company" name="company" />
+
+  <label>Email:</label>
+  <input [(ngModel)]="newCustomer.email" name="email" type="email" />
+
+  <label>Telefonnummer:</label>
+  <input [(ngModel)]="newCustomer.phoneNumber" name="phoneNumber" />
+
+  <label>Priorität:</label>
+  <select [(ngModel)]="newCustomer.priority" name="priority" required>
+    <option [value]="1">Sehr hoch (1)</option>
+    <option [value]="2">Hoch (2)</option>
+    <option [value]="3">Mittel (3)</option>
+    <option [value]="4">Niedrig (4)</option>
+    <option [value]="5">Sehr niedrig (5)</option>
+  </select>
+
+  <button type="submit">Kunde hinzufügen</button>
+</form>
+
