@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\bin\Debug\net9.0\IteratorCompositePattern.exe
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\bin\Debug\net9.0\IteratorCompositePattern.deps.json
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\bin\Debug\net9.0\IteratorCompositePattern.runtimeconfig.json
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\bin\Debug\net9.0\IteratorCompositePattern.dll
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\bin\Debug\net9.0\IteratorCompositePattern.pdb
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\IteratorCompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\IteratorCompositePattern.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\IteratorCompositePattern.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\IteratorCompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\IteratorCompositePattern.dll
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\refint\IteratorCompositePattern.dll
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\IteratorCompositePattern.pdb
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\IteratorCompositePattern.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\IteratorCompositePattern\IteratorCompositePattern\obj\Debug\net9.0\ref\IteratorCompositePattern.dll
