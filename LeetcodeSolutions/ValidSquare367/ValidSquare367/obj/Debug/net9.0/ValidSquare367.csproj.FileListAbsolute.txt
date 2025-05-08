@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\bin\Debug\net9.0\ValidSquare367.exe
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\bin\Debug\net9.0\ValidSquare367.deps.json
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\bin\Debug\net9.0\ValidSquare367.runtimeconfig.json
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\bin\Debug\net9.0\ValidSquare367.dll
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\bin\Debug\net9.0\ValidSquare367.pdb
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\ValidSquare367.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\ValidSquare367.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\ValidSquare367.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\ValidSquare367.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\ValidSquare367.dll
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\refint\ValidSquare367.dll
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\ValidSquare367.pdb
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\ValidSquare367.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\ValidSquare367\ValidSquare367\obj\Debug\net9.0\ref\ValidSquare367.dll

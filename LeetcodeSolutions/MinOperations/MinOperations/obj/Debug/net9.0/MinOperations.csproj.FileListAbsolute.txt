@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\bin\Debug\net9.0\MinOperations.exe
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\bin\Debug\net9.0\MinOperations.deps.json
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\bin\Debug\net9.0\MinOperations.runtimeconfig.json
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\bin\Debug\net9.0\MinOperations.dll
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\bin\Debug\net9.0\MinOperations.pdb
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\MinOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\MinOperations.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\MinOperations.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\MinOperations.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\MinOperations.dll
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\refint\MinOperations.dll
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\MinOperations.pdb
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\MinOperations.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\MinOperations\MinOperations\obj\Debug\net9.0\ref\MinOperations.dll

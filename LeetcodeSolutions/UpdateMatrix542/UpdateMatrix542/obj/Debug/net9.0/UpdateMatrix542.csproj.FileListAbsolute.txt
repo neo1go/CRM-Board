@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\bin\Debug\net9.0\UpdateMatrix542.exe
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\bin\Debug\net9.0\UpdateMatrix542.deps.json
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\bin\Debug\net9.0\UpdateMatrix542.runtimeconfig.json
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\bin\Debug\net9.0\UpdateMatrix542.dll
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\bin\Debug\net9.0\UpdateMatrix542.pdb
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\UpdateMatrix542.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\UpdateMatrix542.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\UpdateMatrix542.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\UpdateMatrix542.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\UpdateMatrix542.dll
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\refint\UpdateMatrix542.dll
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\UpdateMatrix542.pdb
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\UpdateMatrix542.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\UpdateMatrix542\UpdateMatrix542\obj\Debug\net9.0\ref\UpdateMatrix542.dll

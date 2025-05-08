@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Search2dMatrix74/1.0.0": {
+        "runtime": {
+          "Search2dMatrix74.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search2dMatrix74/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

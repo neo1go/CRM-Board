@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\bin\Debug\net9.0\HouseRobberIV.exe
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\bin\Debug\net9.0\HouseRobberIV.deps.json
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\bin\Debug\net9.0\HouseRobberIV.runtimeconfig.json
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\bin\Debug\net9.0\HouseRobberIV.dll
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\bin\Debug\net9.0\HouseRobberIV.pdb
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\HouseRobberIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\HouseRobberIV.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\HouseRobberIV.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\HouseRobberIV.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\HouseRobberIV.dll
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\refint\HouseRobberIV.dll
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\HouseRobberIV.pdb
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\HouseRobberIV.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\HouseRobberIV\HouseRobberIV\obj\Debug\net9.0\ref\HouseRobberIV.dll

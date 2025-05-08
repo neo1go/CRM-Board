@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\bin\Debug\net9.0\TimeBasedKeyValueStore981.exe
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\bin\Debug\net9.0\TimeBasedKeyValueStore981.deps.json
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\bin\Debug\net9.0\TimeBasedKeyValueStore981.runtimeconfig.json
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\bin\Debug\net9.0\TimeBasedKeyValueStore981.dll
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\bin\Debug\net9.0\TimeBasedKeyValueStore981.pdb
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\TimeBasedKeyValueStore981.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\TimeBasedKeyValueStore981.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\TimeBasedKeyValueStore981.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\TimeBasedKeyValueStore981.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\TimeBasedKeyValueStore981.dll
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\refint\TimeBasedKeyValueStore981.dll
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\TimeBasedKeyValueStore981.pdb
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\TimeBasedKeyValueStore981.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\TimeBasedKeyValueStore981\TimeBasedKeyValueStore981\obj\Debug\net9.0\ref\TimeBasedKeyValueStore981.dll

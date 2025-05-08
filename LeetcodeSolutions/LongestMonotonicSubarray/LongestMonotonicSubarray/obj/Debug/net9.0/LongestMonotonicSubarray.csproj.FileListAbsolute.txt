@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\bin\Debug\net9.0\LongestMonotonicSubarray.exe
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\bin\Debug\net9.0\LongestMonotonicSubarray.deps.json
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\bin\Debug\net9.0\LongestMonotonicSubarray.runtimeconfig.json
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\bin\Debug\net9.0\LongestMonotonicSubarray.dll
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\bin\Debug\net9.0\LongestMonotonicSubarray.pdb
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\LongestMonotonicSubarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\LongestMonotonicSubarray.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\LongestMonotonicSubarray.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\LongestMonotonicSubarray.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\LongestMonotonicSubarray.dll
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\refint\LongestMonotonicSubarray.dll
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\LongestMonotonicSubarray.pdb
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\LongestMonotonicSubarray.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\LongestMonotonicSubarray\LongestMonotonicSubarray\obj\Debug\net9.0\ref\LongestMonotonicSubarray.dll

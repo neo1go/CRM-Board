@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\bin\Debug\net9.0\FindRiversIn2dMatrix.exe
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\bin\Debug\net9.0\FindRiversIn2dMatrix.deps.json
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\bin\Debug\net9.0\FindRiversIn2dMatrix.runtimeconfig.json
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\bin\Debug\net9.0\FindRiversIn2dMatrix.dll
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\bin\Debug\net9.0\FindRiversIn2dMatrix.pdb
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\FindRiversIn2dMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\FindRiversIn2dMatrix.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\FindRiversIn2dMatrix.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\FindRiversIn2dMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\FindRiversIn2dMatrix.dll
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\refint\FindRiversIn2dMatrix.dll
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\FindRiversIn2dMatrix.pdb
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\FindRiversIn2dMatrix.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\FindRiversIn2dMatrix\FindRiversIn2dMatrix\obj\Debug\net9.0\ref\FindRiversIn2dMatrix.dll

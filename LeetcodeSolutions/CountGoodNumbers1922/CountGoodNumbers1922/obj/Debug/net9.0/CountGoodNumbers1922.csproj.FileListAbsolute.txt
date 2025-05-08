@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\bin\Debug\net9.0\CountGoodNumbers1922.exe
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\bin\Debug\net9.0\CountGoodNumbers1922.deps.json
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\bin\Debug\net9.0\CountGoodNumbers1922.runtimeconfig.json
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\bin\Debug\net9.0\CountGoodNumbers1922.dll
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\bin\Debug\net9.0\CountGoodNumbers1922.pdb
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\CountGoodNumbers1922.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\CountGoodNumbers1922.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\CountGoodNumbers1922.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\CountGoodNumbers1922.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\CountGoodNumbers1922.dll
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\refint\CountGoodNumbers1922.dll
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\CountGoodNumbers1922.pdb
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\CountGoodNumbers1922.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\CountGoodNumbers1922\CountGoodNumbers1922\obj\Debug\net9.0\ref\CountGoodNumbers1922.dll

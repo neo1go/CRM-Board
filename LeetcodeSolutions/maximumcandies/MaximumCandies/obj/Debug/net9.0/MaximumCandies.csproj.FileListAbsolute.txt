@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\bin\Debug\net9.0\MaximumCandies.exe
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\bin\Debug\net9.0\MaximumCandies.deps.json
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\bin\Debug\net9.0\MaximumCandies.runtimeconfig.json
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\bin\Debug\net9.0\MaximumCandies.dll
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\bin\Debug\net9.0\MaximumCandies.pdb
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\MaximumCandies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\MaximumCandies.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\MaximumCandies.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\MaximumCandies.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\MaximumCandies.dll
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\refint\MaximumCandies.dll
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\MaximumCandies.pdb
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\MaximumCandies.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\MaximumCandies\MaximumCandies\obj\Debug\net9.0\ref\MaximumCandies.dll

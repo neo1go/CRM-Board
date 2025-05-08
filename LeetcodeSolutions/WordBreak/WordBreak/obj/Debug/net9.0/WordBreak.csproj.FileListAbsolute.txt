@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\bin\Debug\net9.0\WordBreak.exe
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\bin\Debug\net9.0\WordBreak.deps.json
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\bin\Debug\net9.0\WordBreak.runtimeconfig.json
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\bin\Debug\net9.0\WordBreak.dll
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\bin\Debug\net9.0\WordBreak.pdb
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\WordBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\WordBreak.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\WordBreak.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\WordBreak.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\WordBreak.dll
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\refint\WordBreak.dll
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\WordBreak.pdb
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\WordBreak.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\WordBreak\WordBreak\obj\Debug\net9.0\ref\WordBreak.dll

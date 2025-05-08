@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\bin\Debug\net9.0\ApplyOperations.exe
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\bin\Debug\net9.0\ApplyOperations.deps.json
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\bin\Debug\net9.0\ApplyOperations.runtimeconfig.json
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\bin\Debug\net9.0\ApplyOperations.dll
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\bin\Debug\net9.0\ApplyOperations.pdb
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\ApplyOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\ApplyOperations.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\ApplyOperations.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\ApplyOperations.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\ApplyOperations.dll
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\refint\ApplyOperations.dll
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\ApplyOperations.pdb
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\ApplyOperations.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\ApplyOperations\ApplyOperations\obj\Debug\net9.0\ref\ApplyOperations.dll

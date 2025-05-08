@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\bin\Debug\net9.0\NumberOfSubstrings1358.exe
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\bin\Debug\net9.0\NumberOfSubstrings1358.deps.json
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\bin\Debug\net9.0\NumberOfSubstrings1358.runtimeconfig.json
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\bin\Debug\net9.0\NumberOfSubstrings1358.dll
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\bin\Debug\net9.0\NumberOfSubstrings1358.pdb
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\NumberOfSubstrings1358.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\NumberOfSubstrings1358.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\NumberOfSubstrings1358.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\NumberOfSubstrings1358.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\NumberOfSubstrings1358.dll
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\refint\NumberOfSubstrings1358.dll
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\NumberOfSubstrings1358.pdb
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\NumberOfSubstrings1358.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\NumberOfSubstrings1358\NumberOfSubstrings1358\obj\Debug\net9.0\ref\NumberOfSubstrings1358.dll

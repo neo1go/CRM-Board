@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\bin\Debug\net9.0\OrangesRotting.exe
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\bin\Debug\net9.0\OrangesRotting.deps.json
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\bin\Debug\net9.0\OrangesRotting.runtimeconfig.json
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\bin\Debug\net9.0\OrangesRotting.dll
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\bin\Debug\net9.0\OrangesRotting.pdb
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\OrangesRotting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\OrangesRotting.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\OrangesRotting.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\OrangesRotting.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\OrangesRotting.dll
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\refint\OrangesRotting.dll
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\OrangesRotting.pdb
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\OrangesRotting.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\OrangesRotting\OrangesRotting\obj\Debug\net9.0\ref\OrangesRotting.dll

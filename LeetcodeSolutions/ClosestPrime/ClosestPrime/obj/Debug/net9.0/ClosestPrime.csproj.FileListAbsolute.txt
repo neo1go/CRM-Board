@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\bin\Debug\net9.0\ClosestPrime.exe
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\bin\Debug\net9.0\ClosestPrime.deps.json
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\bin\Debug\net9.0\ClosestPrime.runtimeconfig.json
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\bin\Debug\net9.0\ClosestPrime.dll
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\bin\Debug\net9.0\ClosestPrime.pdb
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\ClosestPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\ClosestPrime.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\ClosestPrime.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\ClosestPrime.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\ClosestPrime.dll
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\refint\ClosestPrime.dll
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\ClosestPrime.pdb
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\ClosestPrime.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\ClosestPrime\ClosestPrime\obj\Debug\net9.0\ref\ClosestPrime.dll

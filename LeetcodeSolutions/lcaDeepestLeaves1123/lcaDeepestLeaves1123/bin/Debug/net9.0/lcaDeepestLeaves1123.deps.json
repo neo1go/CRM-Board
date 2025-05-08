@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "lcaDeepestLeaves1123/1.0.0": {
+        "runtime": {
+          "lcaDeepestLeaves1123.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lcaDeepestLeaves1123/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

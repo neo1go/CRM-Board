@@ -1,0 +1,14 @@
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\bin\Debug\net9.0\CanPartition416.exe
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\bin\Debug\net9.0\CanPartition416.deps.json
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\bin\Debug\net9.0\CanPartition416.runtimeconfig.json
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\bin\Debug\net9.0\CanPartition416.dll
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\bin\Debug\net9.0\CanPartition416.pdb
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\CanPartition416.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\CanPartition416.AssemblyInfoInputs.cache
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\CanPartition416.AssemblyInfo.cs
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\CanPartition416.csproj.CoreCompileInputs.cache
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\CanPartition416.dll
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\refint\CanPartition416.dll
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\CanPartition416.pdb
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\CanPartition416.genruntimeconfig.cache
+C:\Users\Willkommen\source\repos\CanPartition416\CanPartition416\obj\Debug\net9.0\ref\CanPartition416.dll
