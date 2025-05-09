@@ -1,4 +1,0 @@
-C:\Users\Willkommen\source\repos\IteratorPanncakeDiner\IteratorPanncakeDiner\obj\Debug\net9.0\IteratorPanncakeDiner.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Willkommen\source\repos\IteratorPanncakeDiner\IteratorPanncakeDiner\obj\Debug\net9.0\IteratorPanncakeDiner.AssemblyInfoInputs.cache
-C:\Users\Willkommen\source\repos\IteratorPanncakeDiner\IteratorPanncakeDiner\obj\Debug\net9.0\IteratorPanncakeDiner.AssemblyInfo.cs
-C:\Users\Willkommen\source\repos\IteratorPanncakeDiner\IteratorPanncakeDiner\obj\Debug\net9.0\IteratorPanncakeDiner.csproj.CoreCompileInputs.cache
