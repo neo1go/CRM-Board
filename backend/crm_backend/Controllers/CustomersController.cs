@@ -1,11 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
-using crm_backend.Models;  // Dein Models-Namespace, falls du Modelle verwendest
-using crm_backend.Data;    // Dein Data-Namespace, wenn du auf den DbContext zugreifst
+using crm_backend.Models;  // the Models-Namespace, if models will be used 
+using crm_backend.Data;    // my Data-Namespace, if I want to get data from DbContext 
 
 namespace crm_backend.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")] // Dies erstellt eine Route wie http://localhost:5252/api/customers. Dies ist quasi die Kurzschreibweise
+    [Route("api/[controller]")] // creates a route like http://localhost:5252/api/customers.
     public class CustomersController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -18,8 +18,8 @@ namespace crm_backend.Controllers
         [HttpGet]
         public IActionResult GetCustomers()
         {
-            var customers = _context.Customers.ToList(); // Hier gehst du davon aus, dass du ein "Customers"-DbSet im DbContext hast
-            return Ok(customers); // Gibt die Liste der Kunden zurück
+            var customers = _context.Customers.ToList(); 
+            return Ok(customers); // returns a list of customers 
         }
 
         [HttpPost]
@@ -27,7 +27,7 @@ namespace crm_backend.Controllers
         {
             if (customer == null)
             {
-                return BadRequest();  //bricht bei leeren Daten sofort ab.
+                return BadRequest(); 
             }
 
             _context.Customers.Add(customer);
@@ -51,7 +51,7 @@ namespace crm_backend.Controllers
             customer.PhoneNumber = updatedCustomer.PhoneNumber;
             customer.Priority = updatedCustomer.Priority;
 
-            await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync(); //asp Framework method
             return NoContent();
         }
 
@@ -61,7 +61,7 @@ namespace crm_backend.Controllers
             var customer = await _context.Customers.FindAsync(id);
             if (customer == null) return NotFound();
 
-            _context.Customers.Remove(customer);
+            _context.Customers.Remove(customer); //remove is an asp.net method
             await _context.SaveChangesAsync();
             return NoContent();
         }

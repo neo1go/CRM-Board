@@ -1,24 +1,24 @@
 # in progress
-- Struktur der Site allgemein 
-- Design des UI planen
-- Login jetzt, Auth später (JWT ?)
-- Welche CRM Daten erheben oder bearbeiten ? -> (Kunden mit Name, Firma , E-Mail    TelefonNummer, Adresse,status(aktiv/inaktiv))
-- Dashboard erstellen
-- Unterpunkt  'Notizen' (mit Freitext) erstellen
--  Unterpunkt 'Aufgaben' erstellen
-- Logout erstellen
+- Overall structure of the site 
+- Planing the UI, perhaps with charts from chart.js
+- create Login and Auth now or perhaps later (JWT ?)
+- What CRM Data should I use ?(usual suspects would be name, age, adress, notes, priority Nr,)
+- create a Dashboard 
+- one subsystem should be  'Notes' (with free text)
+- create subsystem 'tasks' 
+- create Logout 
 
 # done
--  grobe Projektstruktur erstellt
-- Routen etabliert. da es sich um die Standalone handelt, gibt es kleine Abweichungen beim Erstellen. Die app.module.ts existiert nicht, dafür aber app.routes.ts 
-- Routerlink hat etwas Probleme bereitet, funktioniert aber jetzt.
-- Repo wurde wieder global gemacht, da ich wohl ein repo in einem repo erstellt habe mittels ng new.
-- Backend erstellt. Jetzt sollte entschieden werden, ob ich mit dem Design oder weiteren Kundenattributen für eine eventuelle Charterstellung weitermache, die dann im Dashboard angezeigt wird.
+-  overall project structure is established
+- Routes established. Because of the standalone option for the project, there are minor differences in the porject structure. The component  app.module.ts doesn't exist and I have to use app.routes.ts instead. 
+- Routerlink caused some trouble but is working fine right now.
+- repo was set to global. I accidantally created a repo inside another repo with  ng new.
+- Wrote the backend part and used orm from aps.net to create the db.
 
 # pushed back
-- Design und kleine Layoutfeatures erstelle ich am Ende, nachdem alle Elemente implementiert wurden.
+- Design and other layout features will be added at the end.
 
 
 # hurdles und/oder lessons learned
-- angular standalone hat eine leicht andere Strukturierung als die classic Version
-- chatgpt ist strunzdoof. Es wurde bestimmt 30 mal erwähnt,das wegen standalone keine module.ts Datei existiert. das kostet Zeit und Nerven
+- angular standalone has a slightly different structur than the classic version.
+- chatgpt is beyond stupid in regards to the standalone nature of the project. I mentioned about 30 times, that no standalone module like module.ts exists.
